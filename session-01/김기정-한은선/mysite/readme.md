@@ -67,3 +67,5 @@ $ python manage.py migrate
 
 - 관리자 사이트에 로그인하기 위한 유저를 생성
 - polls/admin.py 파일 수정 -> 사이트에서 poll 앱 수정 가능하게 함
+
+-
